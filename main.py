@@ -25,8 +25,7 @@ known_face_names = []
 
 # Example: try to load some images from the faces/ subfolders
 candidates = [
-    (os.path.join("faces", "lakshay.jpg"), "Lakshay"),
-    (os.path.join("faces", "mummy.png"), "Neeraj"),
+    (os.path.join("faces", "lakshay.jpg"), "Lakshay"), #Change the image name with extention (lakshay.jpg) and name of student (Lakshay)
     (os.path.join("faces", "ayush.png"), "Ayush"),
 ]
 
